@@ -6,7 +6,7 @@ Cloak is a lightweight Jetpack Compose library designed to simplify the integrat
 * Fingerprint and Face Recognition: Cloak supports both fingerprint and face recognition, offering flexibility in choosing the biometric authentication method that best suits your application's requirements.
 * Intuitive API: Cloak provides an intuitive API that abstracts the complexities of the Android BiometricPrompt API, making it easy to implement secure biometric authentication with just a few lines of code.
 
-# Demo (source)
+# Demo ([source](https://github.com/maikkkko1/cloak-android/blob/main/app/src/main/java/com/maikkkko1/cloak/MainActivity.kt))
 <img src="https://github.com/maikkkko1/cloak-android/assets/40298292/4bbe7d46-f21e-4013-8ff0-e91385ff3e50" width="400">
 
 # Installation
@@ -83,4 +83,4 @@ cloak.authenticateBiometric(
 
 # Licence
 
-Licensed under Apache License, Version 2.0 here.
+Licensed under Apache License, Version 2.0 [here](https://github.com/maikkkko1/cloak-android/blob/main/LICENSE).
