@@ -1,4 +1,4 @@
-# Cloak: Jetpack Compose Biometric Authentication
+# Cloak: Android Jetpack Compose Biometric Authentication
 Cloak is a lightweight Jetpack Compose library designed to simplify the integration of biometric authentication into your Android applications. With Cloak, you can easily enhance the security of your app using fingerprint and face recognition features, providing a seamless and customizable user experience.
 
 # Features
