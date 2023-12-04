@@ -10,9 +10,24 @@ Cloak is a lightweight Jetpack Compose library designed to simplify the integrat
 <img src="https://github.com/maikkkko1/cloak-android/assets/40298292/4bbe7d46-f21e-4013-8ff0-e91385ff3e50" width="400">
 
 # Installation
-To get started with Cloak, add the following dependency to your app module's build.gradle file:
+[![](https://jitpack.io/v/maikkkko1/cloak-android.svg)](https://jitpack.io/#maikkkko1/cloak-android)
+
+To get started with Cloak, add the following dependency to your root module's build.gradle file:
 ```gradle
-implementation 'com.example:cloak:1.0.0'
+dependencyResolutionManagement {
+    // ...
+    repositories {
+        // ...
+        maven { url = uri("https://jitpack.io") }
+    }
+}
+```
+
+In your app module's build.gradle file:
+```gradle
+dependencies {
+    implementation 'com.github.maikkkko1:cloak-android:<version>'
+}
 ```
 
 # Usage
