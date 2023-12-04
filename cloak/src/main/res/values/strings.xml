@@ -1,0 +1,5 @@
+<resources>
+    <string name="auth_prompt_title">Biometric Authentication</string>
+    <string name="auth_prompt_subtitle">Log in using your biometric credential</string>
+    <string name="auth_prompt_negative_button_title">Use account password</string>
+</resources>
